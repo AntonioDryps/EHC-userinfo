@@ -10,6 +10,8 @@ Ajouter cette vue :
       ``    Route::view('/userinfo', 'pages.infouser');
       
 Ajouter le dossier resources du github dans votre serveur web .
+ATTENTION J'AI FAIT UNE PETITE INVERSION DES DOSSIER
+Voici comment il se présente : resources/views/pages
 
 Maintenant dirigez-vous vers resources/views/layouts/sidenav.blade.php
 
