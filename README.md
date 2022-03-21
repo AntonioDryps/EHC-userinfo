@@ -1,4 +1,4 @@
-# EHC-userinfo
+# HCS-userinfo
 Information de l'utilisateur
 
 
