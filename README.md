@@ -7,4 +7,6 @@ Direction : routes/web.php
 
 Ajouter cette vue :
 
-      ``Route::view('/userinfo', 'pages.infouser');``
+      ``Route::view('/userinfo', 'pages.infouser');
+
+
